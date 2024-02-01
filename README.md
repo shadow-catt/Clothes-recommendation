@@ -12,8 +12,8 @@ Original Competition: https://www.kaggle.com/competitions/h-and-m-personalized-f
 2. idx
 
 ### Dynamic features
-1. The [mean, standard deviation] of [price and sales_channel_id] for each user in the transaction table for a given time period.
-2. The [mean, standard deviation] of [price and sales_channel_id] for each item in the transaction table for a given time period.
+1. The mean, standard deviation of price and sales_channel_id for each user in the transaction table for a given time period.
+2. The mean, standard deviation of price and sales_channel_id for each item in the transaction table for a given time period.
 3. Number of purchases per item
 4. purchases per user
 5. user-item purchases
